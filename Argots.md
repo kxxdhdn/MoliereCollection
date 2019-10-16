@@ -4,7 +4,7 @@
 
 B
 ---
-+ une berlue
++ J'ai la berlue :arrow_right: illusion; tromper; duper...想当然
 
 C
 ---
@@ -14,11 +14,19 @@ E
 ---
 + s’empierger = se prendre les pieds (dans que chose), trébucher
 
+
+F
+---
++ faucher = couper (le blé) à la faux ou avec une faucheuse
+	+ faucher = voler
+	+ être fauche: ne pas avoir d'argent
+	+ la faucheuse = la mort
+
 G
 ---
 + gamelle  = repas  
-	se gameller = tomber  
-	prendre une gamelle = un échec
+	+ se gameller = tomber  
+	+ prendre une gamelle = un échec
 
 + glandouiller = glander
 
@@ -28,5 +36,5 @@ L
 
 P
 ---
-+ un pépin = un parapluie
++ un pébroc = un pépin = un parapluie
 
