@@ -1,6 +1,8 @@
 # Don't know how to sort...
 
 
++ 
+
 + L’argent lui brûle les doigts. / C’est un panier percé.
 
 + Ça coûte la peau des fesses/un bras/une jambe.
