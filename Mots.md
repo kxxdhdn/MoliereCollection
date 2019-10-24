@@ -2,6 +2,18 @@
 ![Les Mots](Figures/les_mots.jpg)
 
 
+B
+---
++ pas de bol = pas de chance
+
+	C'est sympa de mettre l'ordinateur d'un informaticien par example dans un bol. (Pour ne pas avoir des bugs. ) [C'est une blague.]
+
+E
+---
++ étouffe-chrétien
+
+	chose dense et sèche, peu agréable à manger (_e.g._ déssert au caramel)
+
 H
 ---
 + un(e) hurluberlu(e) :uk: hurly-burly 

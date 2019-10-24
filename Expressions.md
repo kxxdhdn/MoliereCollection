@@ -1,18 +1,57 @@
 # Don't know how to sort...
 
 
-+ 
+A
+---
++ atterrir/revenir sur terre
+	
+	revenir à la réalité  
+	pour quelqu'un de distrait (dans le nuage/la lune)
+
+B
+---
++ C'est ballot.
+	+ C'est bête. C'est dommage. C'est con. C'est simple.
+	+ Ballot de foin
+
+	![Ballot de foin](Figures/ballot_foin.jpg)
+
++ On bouge. /on décolle. = On y va.
+
+C
+---
++ Démarrer sur les chapeaux de roues
+
+D
+---
++ J'ai/je creve la dalle.
+
+	J'ai (très) faim.
 
 + L’argent lui brûle les doigts. / C’est un panier percé.
 
-+ Ça coûte la peau des fesses/un bras/une jambe.
+F
+---
++ C'est jour de fête.
 
-+ C’est du pipeau.
+	(Pas d'article devant &laquo; jour &raquo;)
 
+G
+---
++ faire gaffe = faire attention
+
+N
+---
 + Tous les machins de France et de Navarre
 
-+ Démarrer sur les chapeaux de roues
+P
+---
++ Ça coûte la peau des fesses/un bras/une jambe.
+
++ C’est du pipeau. :uk: It is a lie.
 
 + Mettre qqn au placard
 
+R
+---
 + Retomber sur ses pattes/pieds
