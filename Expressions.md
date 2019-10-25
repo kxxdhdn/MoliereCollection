@@ -3,9 +3,9 @@
 
 A
 ---
-+ atterrir/revenir sur terre
++ Atterrir/revenir sur terre
 	
-	revenir à la réalité  
+	Revenir à la réalité  
 	pour quelqu'un de distrait (dans le nuage/la lune)
 
 B
@@ -38,7 +38,7 @@ F
 
 G
 ---
-+ faire gaffe = faire attention
++ Faire gaffe = faire attention
 
 N
 ---
