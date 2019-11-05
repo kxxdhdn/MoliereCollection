@@ -36,6 +36,16 @@ F
 
 	(Pas d'article devant &laquo; jour &raquo;)
 
++ Je m'en fou/fiche.
+
+	Je m'en tamponne-  
+		- l'oreille avec une babouche.  
+		- le coquillard en cadence.
+	
+	Je m'en bats-  
+		- l'&oelig;il avec...  
+		- les couilles.
+
 G
 ---
 + Faire gaffe = faire attention

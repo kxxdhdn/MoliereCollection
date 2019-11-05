@@ -8,11 +8,19 @@ B
 
 	C'est sympa de mettre l'ordinateur d'un informaticien par example dans un bol. (Pour ne pas avoir des bugs. ) [C'est une blague.]
 
+C
+---
++ choper = aller chercher, attraper, joindre (quelqu'un)
+
 E
 ---
 + étouffe-chrétien
 
-	chose dense et sèche, peu agréable à manger (_e.g._ déssert au caramel)
+	chose dense et sèche, peu agréable à manger (e.g. déssert au caramel)
+
+F
+---
++ être friand de = aimer et s'y connaître
 
 H
 ---
