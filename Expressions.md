@@ -22,6 +22,9 @@ C
 ---
 + Démarrer sur les chapeaux de roues
 
++ Un rire/une voix de crécelle : aigüe, criard, griçant, désagréable
+	+ Une couleur criarde
+
 D
 ---
 + J'ai/je creve la dalle.
@@ -29,6 +32,12 @@ D
 	J'ai (très) faim.
 
 + L’argent lui brûle les doigts. / C’est un panier percé.
+
+E
+---
++ Monter ... en épingle = en faire tout un cirque/pataquès/fromage
+	+ Agraver quelque chose/un problème qui n'en veut pas la peine
+	+ Pataquès : liaison fautive
 
 F
 ---
@@ -50,6 +59,14 @@ G
 ---
 + Faire gaffe = faire attention
 
+L
+---
++ Pourvoir se cacher derrière un lampataire = être très maigre
+
+M
+---
++ Une régularité de métronome = très régulier
+
 N
 ---
 + Tous les machins de France et de Navarre
@@ -58,6 +75,11 @@ P
 ---
 + Ça coûte la peau des fesses/un bras/une jambe.
 
++ Habiter à perpète,-les-Oies.
+	
+	Perpète : endroit lointain/isolé  
+	-les-Oies : nom utilisé souvent pour des régions rurales
+
 + C’est du pipeau. :uk: It is a lie.
 
 + Mettre qqn au placard
@@ -65,3 +87,8 @@ P
 R
 ---
 + Retomber sur ses pattes/pieds
+
+S
+---
++ C'est tout un sketch/film/cirque. = faire le clown
+	+ Faire n'import quoi ; agir bizarrement
