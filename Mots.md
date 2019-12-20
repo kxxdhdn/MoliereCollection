@@ -38,4 +38,10 @@ K
 
 P
 ---
++ picoler 不醉不归
+
 + un(e) pique-assiette 吃白食的人
+
+S
+---
++ sustenter 维持生计(吃)

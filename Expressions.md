@@ -11,6 +11,7 @@ A
 B
 ---
 + C'est ballot.
+
 	+ C'est bête. C'est dommage. C'est con. C'est simple.
 	+ Ballot de foin
 
@@ -36,6 +37,7 @@ D
 E
 ---
 + Monter ... en épingle = en faire tout un cirque/pataquès/fromage
+
 	+ Agraver quelque chose/un problème qui n'en veut pas la peine
 	+ Pataquès : liaison fautive
 
@@ -91,4 +93,11 @@ R
 S
 ---
 + C'est tout un sketch/film/cirque. = faire le clown
-	+ Faire n'import quoi ; agir bizarrement
+
+	Faire n'import quoi ; agir bizarrement
+
+V
+---
++ Passer en coup de vent
+
+	Passer très vite, ne pas rester （取了东西）就走
