@@ -2,6 +2,14 @@
 ![Les Mots](Figures/les_mots.jpg)
 
 
+A
+---
++ abracadabra : formule magique
+	
+	+ abracadabrant
+	+ [POKÉMON] Abra - Kadabra - Alakazam
+	![Casey](Figures/casey.jpg)
+
 B
 ---
 + pas de bol = pas de chance
@@ -10,7 +18,19 @@ B
 
 C
 ---
++ calculs d'apothicaire
+	
+	+ petits calculs bancals ou très approximatifs
+	+ apothicaire : semi-alchimiste, herboriste, préparateur de remèdes
+
 + choper = aller chercher, attraper, joindre (quelqu'un)
+
+D
+---
++ draconien
+
+	+ très strict, très dur
+	+ lié aux dragons
 
 E
 ---
