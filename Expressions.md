@@ -4,9 +4,7 @@
 A
 ---
 ### Atterrir/revenir sur terre
-	
-	Revenir à la réalité  
-	pour quelqu'un de distrait (dans le nuage/la lune)
+  - Revenir à la réalité (pour quelqu'un de distrait/dans le nuage/dans la lune)
 
 B
 ---
@@ -37,21 +35,21 @@ D
 E
 ---
 ### Monter ... en épingle = en faire tout un cirque/pataquès/fromage
-	- Agraver quelque chose/un problème qui n'en veut pas la peine
-	- Pataquès : liaison fautive
+  - Agraver quelque chose/un problème qui n'en veut pas la peine
+  - Pataquès : liaison fautive
 
 F
 ---
 ### C'est jour de fête.
-	- [Pas d'article devant &laquo; jour &raquo;]
+  - [Pas d'article devant &laquo; jour &raquo;]
 
 ### Je m'en fou/fiche.
-	- Je m'en tamponne-
-	  + - l'oreille avec une babouche.
-	  + - le coquillard en cadence.
-	- Je m'en bats-
-	  + - l'&oelig;il avec...
-	  + - les couilles.
+  - Je m'en tamponne-
+    + - l'oreille avec une babouche.
+    + - le coquillard en cadence.
+  - Je m'en bats-
+    + - l'&oelig;il avec...
+    + - les couilles.
 
 G
 ---

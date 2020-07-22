@@ -1,4 +1,5 @@
 # Les Mots
+
 ![Les Mots](./Figures/les_mots.jpg)
 
 A
@@ -53,6 +54,15 @@ F
 ### être friand de
   - aimer et s'y connaître
 
+G
+---
+### groom
+  - ferme-porte automatique (hydraulique)
+  
+    ![groom](./Figures/groom.jpg)
+	
+  - portier, de :uk: [métier] jeune employé d'hôtel, de restaurant, de cercle, chargé d'ouvrir la porte pour les clients
+  
 H
 ---
 ### hurluberlu
@@ -63,6 +73,7 @@ K
 ### kitsch ou kitch
 
   ![Licorne porcelaine luminaire](./Figures/veilleuse_licorne_porcelaine_enfant_luminaire.jpg)
+  
   - Dans les œuvres d’art: juxtaposition, accumulation, enfance, société de consommation, cadres dorées, syncrétisme religieux, etc. [En savoir plus](https://mlleaartus.wordpress.com/2017/07/27/le-kitsch-cest-quoi/)
 
 P
