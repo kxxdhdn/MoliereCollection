@@ -3,30 +3,55 @@
 
 A
 ---
-+ Ad hoc :fr: pour cela
+### A posteriori
 
-+ Ad vitam aeternam :fr: pour la vie éternelle
+### A priori
 
+### A fortiori
+
+### Ab initio
+  - à partir de rien, à paritr du début, sans présupposé
+  
+### Ad hoc
+  - pour cela
+
+### Ad vitam aeternam
+  - pour la vie éternelle
+
+B
+---
+### Bona fide
+  - de bonne foi, authentique
 C
 ---
-+ Confer = cf. :fr: comparer à
+### Confer (cf.)
+  - comparer à
 
 E
 ---
-+ Exempli gratia :uk: e.g. :fr: par exemple
+### Exempli gratia (e.g.)
+  - par exemple
 
+### Et caetera (etc.)
+  - et tout ce qui suit, tout ce qui est lié (équivalent à "..." dans une liste)
+  
 I
 ---
-+ Id est :uk: i.e. :fr: c'est-à-dire
+### Id est (i.e.)
+  - c'est-à-dire
 
-+ Idem :fr: le même
+### Idem
+  - le même
 
-+ In situ :fr: sur place
+### In situ
+  - sur place
 
 M
 ---
-+ Manu militari :fr: par la main militaire
+### Manu militari
+  - par la main militaire
 
 V
 ---
-+ Vice versa :fr: réciproquement
+### Vice versa
+  - réciproquement

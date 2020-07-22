@@ -4,39 +4,46 @@
 
 B
 ---
-+ J'ai la berlue :arrow_right: illusion; tromper; duper...想当然
+### J'ai la berlue.
+  - illusion; tromper; duper... :cn: 想当然
 
 C
 ---
-+ un crapaud = un porte-monnaie
+### un crapaud
+  - un porte-monnaie
 
 E
 ---
-+ s’empierger = se prendre les pieds (dans que chose), trébucher
-
+### s’empierger
+  - se prendre les pieds (dans que chose), trébucher
 
 F
 ---
-+ faucher = couper (le blé) à la faux ou avec une faucheuse
-	+ faucher = voler
-	+ être fauche: ne pas avoir d'argent
-	+ la faucheuse = la mort
+### faucher
+  - couper (le blé) à la faux ou avec une faucheuse
+  - faucher = voler
+  - être fauche: ne pas avoir d'argent
+  - la faucheuse = la mort
 
 G
 ---
-+ gamelle  = repas  
-	+ se gameller = tomber  
-	+ prendre une gamelle = un échec
+### gamelle
+  - repas
+  - se gameller = tomber  
+  - prendre une gamelle = un échec
 
-+ glandouiller = glander
+### glandouiller
+  - glander
 
 L
 ---
-+ une limace = une chemise
+### une limace
+  - une chemise
 
 P
 ---
-+ un pébroc = un pépin = un parapluie
+### un pébroc
+  - un pépin = un parapluie
 
-	Prends ton pébroc, il va flotter.
+	_Prends ton pébroc, il va flotter._
 

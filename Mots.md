@@ -3,68 +3,76 @@
 
 A
 ---
-* abracadabra
+### abracadabra
   - formule magique
     + adj. abracadabrant
     + [POKÉMON] Abra - Kadabra - Alakazam
 	
 	  ![Casey](./Figures/casey.jpg)
+
 B
 ---
-* pas de bol
-- pas de chance
+### pas de bol
+  - pas de chance
 
-  /C'est sympa de mettre l'ordinateur d'un informaticien par example dans un bol./ (Pour ne pas avoir des bugs. ) [C'est une blague.]
+    _C'est sympa de mettre l'ordinateur d'un informaticien par example dans un bol._ (Pour ne pas avoir des bugs. ) [C'est une blague.]
+
 C
 ---
-* calculs d'apothicaire	
+### calculs d'apothicaire	
   - petits calculs bancals ou très approximatifs
   - apothicaire : semi-alchimiste, herboriste, préparateur de remèdes
-* choper
+### choper
   - aller chercher, attraper, joindre (quelqu'un)
-* compulsion
+### compulsion
   - TOC : Touble Obsessionel Compulsif (que le sujet n'arrive pas à réfréner) :cn: 强迫症
 
     Toqué : qui a des TOC, fou
 
     adj. Toc-toc : se dit de quelqu'un qui est fou/idiot
-  - [à ne pas confondre] Toque : sorte de chapeau (toque en fourrure, toque de chef cuisinier, /etc./)
+  - [à ne pas confondre] Toque : sorte de chapeau (toque en fourrure, toque de chef cuisinier, etc.)
 
     Toqué : appliqué à certaines récompenses culinaires
   - Pulsion : envie soudaine et très forte, difficile à réfréner
+
 D
 ---
-* draconien
+### draconien
   - très strict, très dur
   - lié aux dragons
+
 E
 ---
-* étouffe-chrétien
+### étouffe-chrétien
   - cchose dense et sèche, peu agréable à manger (e.g. déssert au caramel)
-* étrenner
+### étrenner
   - Faire usage d’une chose pour la première fois.
+
 F
 ---
-* être friand de
+### être friand de
   - aimer et s'y connaître
+
 H
 ---
-* hurluberlu
+### hurluberlu
   - :uk: hurly-burly
+
 K
 ---
-* kitsch
-  ou kitch
+### kitsch ou kitch
 
   ![Licorne porcelaine luminaire](./Figures/veilleuse_licorne_porcelaine_enfant_luminaire.jpg)
   - Dans les œuvres d’art: juxtaposition, accumulation, enfance, société de consommation, cadres dorées, syncrétisme religieux, etc. [En savoir plus](https://mlleaartus.wordpress.com/2017/07/27/le-kitsch-cest-quoi/)
+
 P
 ---
-* picoler
+### picoler
   - :cn: 不醉不归
-* pique-assiette
+### pique-assiette
   - :cn: 吃白食的人
+
 S
 ---
-* sustenter
+### sustenter
   - :cn: 维持生计(吃)
