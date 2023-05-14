@@ -13,3 +13,8 @@
 >Patron : Quel est ton parcours scolaire ?  
 Stagiaire : Bac MP, L1 Lagrange, L2 Lagrange, L3 Lagrange...  
 __(A rafiner...)__
+
+---
+
+>\- Santé !  
+\- Mais pas les pieds...

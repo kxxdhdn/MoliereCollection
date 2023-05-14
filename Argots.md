@@ -29,7 +29,7 @@ G
 ---
 ### gamelle
   - repas
-  - se gameller = tomber  
+  - se gameller = tomber
   - prendre une gamelle = un échec
 
 ### glandouiller

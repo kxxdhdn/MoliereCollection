@@ -61,12 +61,12 @@ G
   
     ![groom](./Figures/groom.jpg)
 	
-  - portier, de :uk: [métier] jeune employé d'hôtel, de restaurant, de cercle, chargé d'ouvrir la porte pour les clients
+  - portier, de :gb: [métier] jeune employé d'hôtel, de restaurant, de cercle, chargé d'ouvrir la porte pour les clients
   
 H
 ---
 ### hurluberlu
-  - :uk: hurly-burly
+  - :gb: hurly-burly
 
 K
 ---
