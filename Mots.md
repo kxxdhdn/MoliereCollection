@@ -53,7 +53,9 @@ F
 ---
 ### être friand de
   - aimer et s'y connaître
-
+### flippant
+  - C'est flippant
+  
 G
 ---
 ### groom
