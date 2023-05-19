@@ -15,8 +15,9 @@ B
 ---
 ### pas de bol
   - pas de chance
-
-    _C'est sympa de mettre l'ordinateur d'un informaticien par example dans un bol._ (Pour ne pas avoir des bugs. ) [C'est une blague.]
+    + _C'est sympa de mettre l'ordinateur d'un informaticien par example dans un bol._ (Pour ne pas avoir des bugs. ) [C'est une blague.]
+### balancer
+  - Tu peux prévenir avant de balancer les trucs comme ça ?
 
 C
 ---
@@ -27,13 +28,10 @@ C
   - aller chercher, attraper, joindre (quelqu'un)
 ### compulsion
   - TOC : Touble Obsessionel Compulsif (que le sujet n'arrive pas à réfréner) :cn: 强迫症
-
-    Toqué : qui a des TOC, fou
-
-    adj. Toc-toc : se dit de quelqu'un qui est fou/idiot
+    + Toqué : qui a des TOC, fou
+    + adj. Toc-toc : se dit de quelqu'un qui est fou/idiot
   - [à ne pas confondre] Toque : sorte de chapeau (toque en fourrure, toque de chef cuisinier, etc.)
-
-    Toqué : appliqué à certaines récompenses culinaires
+    + Toqué : appliqué à certaines récompenses culinaires
   - Pulsion : envie soudaine et très forte, difficile à réfréner
 
 D

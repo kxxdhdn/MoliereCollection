@@ -1,12 +1,19 @@
 # One Piece
 
-![Les Mots](./Figures/one_piece_logo.png)
+![One Piece](./Figures/one_piece.png)
 
+### aboi
+  - Luffy, de nouveau aux abois. Gear Fourth contre Donuts ! :cn: 走投无路
+    + origine : Ep. 858
+  
 ### air
   - Ce n'est pas une parole en l'air.
     + en l'air :arrow_right: sans fondement, sans importance
   - C'est pour tout ficher/foutre en l'air.
     + détruire, anéantir
+  
+### barreau
+  - Il finit par être envoyé derrière les barreaux.
   
 ### bibine
   - N'oublie pas la bibine...
@@ -15,6 +22,7 @@
 ### bien
   - ..., bel et bien.
   - ..., vite fait, bien fait.
+  - Grand bien te fasse ! :gb: Good for you...
   
 ### bon
   - Tu es bon à rien.
@@ -53,6 +61,10 @@
     + Sa dernière heure a sonné.
     + Il a signé son arrêt de mort.
   
+### eau
+  - Tout notre plan risque de tomber à l'eau.
+    + échouer, être oublié
+  
 ### étoile
   - Tu as vraiment une bonne étoile / ange gardien kiffé,e sur toi.
   
@@ -65,6 +77,10 @@
 ### haricots
   - C'est la fin des haricots.
     + Cette expression a été utilisée pour parler d'une situation critique, avec la perte de tout espoir.
+  
+### morceau
+  - Tu a réussit à revenir en un seul morceau.
+    + bien portant, en pleine forme
   
 ### oignon
   - Mêle/occupe-toi de tes oignons.
@@ -150,6 +166,7 @@
   - d'enfoiré
   - d'idiot
   - de mioche
+  - de microbes
   - de misérable
   - de (sale petit) morveux
   - d'ordures
