@@ -10,6 +10,7 @@
 + [One Piece](https://github.com/kxxdhdn/MoliereCollection/blob/master/OnePiece.md)
 + [Ponctuations](https://github.com/kxxdhdn/MoliereCollection/blob/master/Ponctuations.md)
 + [Toto](https://github.com/kxxdhdn/MoliereCollection/blob/master/Toto.md)
++ [Zelda](https://github.com/kxxdhdn/MoliereCollection/blob/master/Zelda.md)
 
 
 __Special acknowledgement to__

@@ -2,6 +2,10 @@
 
 ![The Legend of Zelda](./Figures/tears_of_the_kingdom.jpg)
 
+### bile
+  - Hier encore, elle avait l'air contente quand elle en parlait. Je suis sûre que tu te fais de la bile pour rien.
+    + s'inquiéter ; se faire du souci
+  
 ### calé
   - Tu trouveras personne de plus calé sur les affaires du royaume !
   - un problème calé
@@ -9,6 +13,9 @@
 ### cancan
   - Une rumeur, voyez-vous ça... Normalement, je prête juste zéro attention auuux cancans, et j'encourage même à les tuer dans l'œuf.
 
+### combat
+  - le combat à distance :arrows_counterclockwise: le combat en mêlée
+  
 ### épater
   - Ça m'épate.
   

@@ -6,6 +6,12 @@
   - Luffy, de nouveau aux abois. Gear Fourth contre Donuts ! :cn: 走投无路
     + origine : Ep. 858
   
+### affaire
+  - Tu auras affaire à moi.
+    + cf. Tu auras à faire à moi.
+  - Ils sont loin d'être tirés d'affaire.
+    + s'en sortir
+  
 ### air
   - Ce n'est pas une parole en l'air.
     + en l'air :arrow_right: sans fondement, sans importance
@@ -24,8 +30,8 @@
   - ..., vite fait, bien fait.
   - Grand bien te fasse ! :gb: Good for you...
   
-### bon
-  - Tu es bon à rien.
+### brin
+  - Tu n'as pas changé d'un brin.
   
 ### canon
   - C'est un vrai canon, elle !
@@ -38,6 +44,11 @@
   - Tu n'en as rien dans le citron.
     + ne pas être très malin
   
+### chaos
+  - À l'age de 18 ans, il continue de se mettre la pagaille.
+  - T'es un vrai gamin. Pourquoi t'es incapable de t'infiltrer faire du grabuge.
+  - faire du bagarre
+
 ### classe
   - La classe !
   
@@ -78,6 +89,13 @@
   - C'est la fin des haricots.
     + Cette expression a été utilisée pour parler d'une situation critique, avec la perte de tout espoir.
   
+### léger
+  - Prenez pas la mer à la légère.
+    + sans avoir pesé les choses, sans réfléchir
+  
+### main
+  - Le cuistot a eu la main lourde.
+  
 ### morceau
   - Tu a réussit à revenir en un seul morceau.
     + bien portant, en pleine forme
@@ -109,6 +127,7 @@
 ### rester
   - Il faut rester zen.
   - On ne peut pas rester les bras croisés.
+    + cf. Un bras cassé :arrow_right: Personne sur laquelle on ne peut compter, incapable, bon à rien.
   
 ### salades
   - Ce sont des salades.
@@ -118,6 +137,7 @@
   - Je ne suis pas taillé / de taille (pour ce conflit).
   - Il faut que je sois à la hauteur (de ce défi).
   - Tu ne fais pas le poids (contre moi).
+  - Je ne suis pas en mesure de t'aider.
   
 ### tête
   - Mais ça va pas la tête ?
@@ -129,9 +149,6 @@
     + origine : :it: voltare casacca
   
 ### Haki / Fluide
-  - Tu auras affaire à moi.
-    + cf. Tu auras à faire à moi.
-  
   - J'en ai aucune idée, mais en tout cas, un milliard de que ce soit, ça m'a l'air de faire une sacrée somme.
   
   - Je suis partant.
@@ -155,6 +172,8 @@
   - Tu dégages sinon je t'en colle une jamais vu un mec comme toi t'es une merde.
   
   - Pardonnez-moi, madame, mon impertinence. Auriez-vous la gentillesse de me laisser mirer vos affriolants dessous.
+  
+  - La vérité ne fera que provoquer la confusion au sein des esprits.
   
 ### Espèce... / Bande...
   - d'abruti
