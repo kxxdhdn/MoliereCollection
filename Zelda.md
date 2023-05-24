@@ -21,9 +21,16 @@
   
 ### guise
   - N'hésite pas à utiliser toutes les installations de cet abri à ta guise.
+
+### manche
+  - Quand un royaume manque de main-d'œuvre, le roi doit savoir se retrousser les manches.
   
 ### mouron
   - se fait du mouron :cn: 自寻烦恼
+  
+### pain
+  - On a encore du pain sur la planche.
+    + avoir en perspective beaucoup de tâches fastidieuses à accomplir
   
 ### roupillon
   - faire/piquer un roupillon = une sieste

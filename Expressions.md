@@ -74,12 +74,13 @@ P
 ---
 ### Ça coûte la peau des fesses/un bras/une jambe.
 
-### Habiter à perpète,-les-Oies.
+### Habiter à perpète,-lès-Oies.
   - Perpète : endroit lointain/isolé
-  - -les-Oies : nom utilisé souvent pour des régions rurales
+  - -lès-Oies : nom utilisé souvent pour des régions rurales
 
 ### C’est du pipeau.
-  - :uk: It is a lie.
+  - :gb: It is a lie.
+  - Tu racontes des salades.
 
 ### Mettre qqn au placard
 
@@ -90,7 +91,14 @@ R
 S
 ---
 ### C'est tout un sketch/film/cirque. = faire le clown
-  - Faire n'import quoi ; agir bizarrement
+  - faire n'import quoi ; agir bizarrement
+
+### Sauter du coq à l'âne
+  - Fait de passer brusquement d'un sujet à un autre dans une conversation
+
+T
+---
+### C'est un coup à double tranchant :cn: 双刃剑
 
 V
 ---

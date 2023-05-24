@@ -76,11 +76,12 @@
   - Tout notre plan risque de tomber à l'eau.
     + échouer, être oublié
   
+### esgourde
+  - Ouvre grand tes esgourdes. Un sabre, c'est un couteau à humains.
+    + Écoutes. oreille
+  
 ### étoile
   - Tu as vraiment une bonne étoile / ange gardien kiffé,e sur toi.
-  
-### farine
-  - Tu m'a fait rouler dans la farine.
   
 ### gaffe
   - Fais gaffe de ne pas tomber.
@@ -93,8 +94,15 @@
   - Prenez pas la mer à la légère.
     + sans avoir pesé les choses, sans réfléchir
   
+### lest
+  - Comme s'il y avait pas assez de feu dans ce château... Et tu pourrais lâcher/jeter du lest avec tes hommes. :cn: 丢卒保车
+  
 ### main
   - Le cuistot a eu la main lourde.
+  
+### moral
+  - Snatch ! C'est une formule magique qui te donne le moral.
+    + redonner de l'espoir, consoler
   
 ### morceau
   - Tu a réussit à revenir en un seul morceau.
@@ -106,6 +114,9 @@
 ### point
   - Vous tombez à point nommé.
   
+### pomme
+  - Pour sûr, je n'ai pas à m'en faire pour sa pomme.
+    + s'inquiéter pour lui
 ### prendre
   - Mais il se prend pour qui ?
   - Qu'est-ce qui te prend ?
@@ -129,6 +140,10 @@
   - On ne peut pas rester les bras croisés.
     + cf. Un bras cassé :arrow_right: Personne sur laquelle on ne peut compter, incapable, bon à rien.
   
+### rouler
+  - Laissez-nous faire rouler sa tête sur le sol.
+    + décapiter qqn.
+  
 ### salades
   - Ce sont des salades.
     + Raconter des mensonges/contradictions/inventions/mauvaises excuses/propos confus.
@@ -147,6 +162,35 @@
   - Il a retourné sa veste.
     + Changer de camp ou d'opinion par intérêt et non en vertu de principes moraux, afin de saisir une occasion ou d'échapper à une menace.
     + origine : :it: voltare casacca
+  
+### Espèce... / Bande...
+  - d'abruti
+  - de bestiole
+  - de chauffard
+  - de cinglé
+  - de (gros) cornichon
+  - de (vieux/sale) crétin
+  - de (vieux) croûton
+  - de dure à cuire
+  - d'enfoiré
+  - de fumier
+  - d'idiot
+  - de mioche
+  - de microbes
+  - de misérable
+  - de (sale petit) morveux
+  - d'ordures
+  - de (vieux) schnock
+  - de vermine
+  
+### Baratie
+  - Tu m'a fait rouler dans la farine.
+    + tromper qqn.
+	
+  - Elle m'a pris pour un jambon !
+    + pour se faire enfumer
+  
+  - Tu récoltes ce que tu sèmes !
   
 ### Haki / Fluide
   - J'en ai aucune idée, mais en tout cas, un milliard de que ce soit, ça m'a l'air de faire une sacrée somme.
@@ -175,19 +219,4 @@
   
   - La vérité ne fera que provoquer la confusion au sein des esprits.
   
-### Espèce... / Bande...
-  - d'abruti
-  - de bestiole
-  - de chauffard
-  - de cinglé
-  - de (gros) cornichon
-  - de (vieux/sale) crétin
-  - d'enfoiré
-  - d'idiot
-  - de mioche
-  - de microbes
-  - de misérable
-  - de (sale petit) morveux
-  - d'ordures
-  - de (vieux) schnock
-  - de vermine
+  - Je suis pas en position de pinailler sur ma réputation.
