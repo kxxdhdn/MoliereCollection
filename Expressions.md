@@ -12,7 +12,7 @@ B
   - C'est bête. C'est dommage. C'est con. C'est simple.
   - Ballot de foin
 
-	![Ballot de foin](./Figures/ballot_foin.jpg)
+    ![Ballot de foin](./Figures/ballot_foin.jpg)
 
 ### On bouge. /On décolle.
   - On y va.

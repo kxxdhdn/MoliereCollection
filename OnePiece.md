@@ -114,9 +114,6 @@
 ### point
   - Vous tombez à point nommé.
   
-### pomme
-  - Pour sûr, je n'ai pas à m'en faire pour sa pomme.
-    + s'inquiéter pour lui
 ### prendre
   - Mais il se prend pour qui ?
   - Qu'est-ce qui te prend ?
@@ -184,6 +181,11 @@
   - de vermine
   
 ### Baratie
+  - Tu me prends comme un paillasson, quoi ?
+    + Paillasson de pomme de terre
+  
+      ![Paillasson de pomme](./Figures/paillasson_de_pomme.jpg)
+  
   - Tu m'a fait rouler dans la farine.
     + tromper qqn.
 	
@@ -192,10 +194,13 @@
   
   - Tu récoltes ce que tu sèmes !
   
+  - Pour sûr, je n'ai pas à m'en faire pour sa pomme.
+    + s'inquiéter pour lui
+  
 ### Haki / Fluide
   - J'en ai aucune idée, mais en tout cas, un milliard de que ce soit, ça m'a l'air de faire une sacrée somme.
   
-  - Je suis partant.
+  - Je suis partant !
   
   - Je dois le remets en état.
   
@@ -220,3 +225,5 @@
   - La vérité ne fera que provoquer la confusion au sein des esprits.
   
   - Je suis pas en position de pinailler sur ma réputation.
+  
+  - Cette jeune femme, c'est ma fille... C'est un membre à part entière de notre famille. Et vous voudriez nous séparer d'elle. Si c'est ce que vous voulez, soyez prêts à mourir !
