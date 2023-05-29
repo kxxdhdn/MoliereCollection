@@ -20,10 +20,6 @@
   
 ### barreau
   - Il finit par être envoyé derrière les barreaux.
-  
-### bibine
-  - N'oublie pas la bibine...
-    + boisson, bière de mauvaise qualité
 
 ### bien
   - ..., bel et bien.
@@ -111,6 +107,10 @@
 ### oignon
   - Mêle/occupe-toi de tes oignons.
   
+### paumé
+  - Zoro est encore paumé...
+    + perdu
+  
 ### point
   - Vous tombez à point nommé.
   
@@ -140,10 +140,6 @@
 ### rouler
   - Laissez-nous faire rouler sa tête sur le sol.
     + décapiter qqn.
-  
-### salades
-  - Ce sont des salades.
-    + Raconter des mensonges/contradictions/inventions/mauvaises excuses/propos confus.
   
 ### taille
   - Je ne suis pas taillé / de taille (pour ce conflit).
@@ -181,21 +177,27 @@
   - de vermine
   
 ### Baratie
-  - Tu me prends comme un paillasson, quoi ?
-    + Paillasson de pomme de terre
-  
-      ![Paillasson de pomme](./Figures/paillasson_de_pomme.jpg)
-  
+  - N'oublie pas la bibine...
+    + boisson, bière de mauvaise qualité
+
   - Tu m'a fait rouler dans la farine.
     + tromper qqn.
 	
   - Elle m'a pris pour un jambon !
     + pour se faire enfumer
   
-  - Tu récoltes ce que tu sèmes !
+  - Tu me prends comme un paillasson, quoi ?
+    + Paillasson de pomme de terre
+  
+      ![Paillasson de pomme](./Figures/paillasson_de_pomme.jpg)
   
   - Pour sûr, je n'ai pas à m'en faire pour sa pomme.
     + s'inquiéter pour lui
+  
+  - Ce sont des salades.
+    + Raconter des mensonges/contradictions/inventions/mauvaises excuses/propos confus.
+  
+  - Tu récoltes ce que tu sèmes !
   
 ### Haki / Fluide
   - J'en ai aucune idée, mais en tout cas, un milliard de que ce soit, ça m'a l'air de faire une sacrée somme.

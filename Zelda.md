@@ -3,7 +3,7 @@
 ![The Legend of Zelda](./Figures/tears_of_the_kingdom.jpg)
 
 ### affût
-  - Link... il est déjà temps pour toi de reprendre la route, n'est-ce pas ?
+  - Link... il est déjà temps pour toi de reprendre la route, n'est-ce pas ? Moi, je reste à l'affût.
     + épier l'occasion de faire quelque chose ; être aux aguets
   
 ### bile
@@ -26,6 +26,10 @@
 ### guise
   - N'hésite pas à utiliser toutes les installations de cet abri à ta guise.
 
+### loup
+  - Quand on parle du loup ! :cn: 说曹操曹操就到
+  - le loup déguisé en agneau :cn: 披着羊皮的狼 笑面虎
+
 ### malle
   - Quand j'suis arrivé, y a eu un grondement d'tonnerre, comme si tout s'effondrait, et crac, la flotte s'est fait la malle...
     + s'enfuit ; part précipitamment
@@ -47,9 +51,11 @@
 ### roupillon
   - faire/piquer un roupillon = une sieste
 
-### 
+### Tablette Pru'Ha / Sheikah
   - Ô lune couleur du sang, lorsque de ta lumière tu éclaires la terre... Les âmes des monstres retrouvent leur enveloppe charnelle... pour repartir à la conquête de ces terres...
   
   - Héhé... Ça faisait longtemps que je n'avais pas vu Sidon comme ça, fonçant tête baissée et criant à tue-tête ! J'ai l'impression de retrouver enfin le Sidon que j'ai toujours connu !
 
   - Grâce à toi, nous autres Zoras sommes tirés d'affaire, et notre domaine aussi. Mille paroles ne suffiraient pas à exprimer notre gratitude... mais laisse-moi tout de même te dire merci !
+
+### Grosailleh & Associés
