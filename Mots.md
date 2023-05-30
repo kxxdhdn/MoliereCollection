@@ -43,7 +43,7 @@ D
 E
 ---
 ### étouffe-chrétien
-  - cchose dense et sèche, peu agréable à manger (e.g. déssert au caramel)
+  - chose dense et sèche, peu agréable à manger (e.g. déssert au caramel)
 ### étrenner
   - Faire usage d’une chose pour la première fois.
 

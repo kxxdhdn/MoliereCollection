@@ -21,6 +21,9 @@
 ### barreau
   - Il finit par être envoyé derrière les barreaux.
 
+### bavé
+  - J'en ai bavé. :cn: 苦头
+  
 ### bien
   - ..., bel et bien.
   - ..., vite fait, bien fait.
@@ -71,6 +74,9 @@
 ### eau
   - Tout notre plan risque de tomber à l'eau.
     + échouer, être oublié
+  
+### éponge
+  - Hors de question que tu jettes l'éponge. :gb: to throw in the towel
   
 ### esgourde
   - Ouvre grand tes esgourdes. Un sabre, c'est un couteau à humains.
@@ -172,6 +178,7 @@
   - de microbes
   - de misérable
   - de (sale petit) morveux
+  - de nazes
   - d'ordures
   - de (vieux) schnock
   - de vermine
