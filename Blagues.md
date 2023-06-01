@@ -6,7 +6,7 @@
 ---
 
 >\- Quel est le repas classique d'un informaticien ?  
-\- Une "Persillée". 
+\- Une « Persillée ». 
 
 ---
 
