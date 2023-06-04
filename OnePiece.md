@@ -61,6 +61,13 @@
 ### colère
   - Je suis vraiment en pétard.
   
+### coup
+  - On a fait les quatre cents coups ensemble.
+    + faire beaucoup de bruit et de tapage
+    + origine : Louis XIII assiégeant la ville de Montauban, fit tirer 400 coups de canon
+  - La Rêverie de cette année était parsemée de coups du sort.
+    + problème inutile et imprévu résultant d'un événement malheureux
+
 ### cracher
   - Allez, crachez le morceau.
     + dire ce que l'on sait
@@ -215,10 +222,6 @@
   
   - C'est comme ci c'était fait.
   
-  - On a fait les quatre cents coups ensemble.
-    + faire beaucoup de bruit et de tapage
-    + origine : Louis XIII assiégeant la ville de Montauban, fit tirer 400 coups de canon
-
   - On est fait comme des rats !
     + être capturé, ou pris en flagrant délit
     + origine : _Voyage au bout de la nuit_ de Céline.
