@@ -14,6 +14,10 @@ B
 
     ![Ballot de foin](./Figures/ballot_foin.jpg)
 
+### Pas de bol.
+  - pas de chance
+    + _C'est sympa de mettre l'ordinateur d'un informaticien par example dans un bol._ (Pour ne pas avoir des bugs. ) [C'est une blague.]
+
 ### On bouge. /On décolle.
   - On y va.
 
@@ -65,6 +69,9 @@ M
 ---
 ### Une régularité de métronome
   - très régulier
+
+### Remontre moi le moral
+  - redonner de l'espoir, consoler
 
 N
 ---

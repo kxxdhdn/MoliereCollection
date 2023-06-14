@@ -13,9 +13,6 @@ A
 
 B
 ---
-### pas de bol
-  - pas de chance
-    + _C'est sympa de mettre l'ordinateur d'un informaticien par example dans un bol._ (Pour ne pas avoir des bugs. ) [C'est une blague.]
 ### balancer
   - Tu peux prévenir avant de balancer les trucs comme ça ?
 
