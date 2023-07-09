@@ -8,6 +8,10 @@ A
 
 B
 ---
+### Ça fait un bail. / Ça fait une paye.
+  - Ça fait longtemps.
+  - Origine : Un bail / une paye correspond à une durée d'un mois et donc être utilisé,e pour exprimer le temps écoulé.
+
 ### C'est ballot.
   - C'est bête. C'est dommage. C'est con. C'est simple.
   - Ballot de foin
@@ -18,7 +22,7 @@ B
   - pas de chance
     + _C'est sympa de mettre l'ordinateur d'un informaticien par example dans un bol._ (Pour ne pas avoir des bugs. ) [C'est une blague.]
 
-### On bouge. /On décolle.
+### On bouge. / On décolle.
   - On y va.
 
 C

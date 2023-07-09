@@ -160,9 +160,16 @@
   - Tu ne fais pas le poids (contre moi).
   - Je ne suis pas en mesure de t'aider.
   
+### tapis
+  - Linlin ! Ils l'ont mise au tapis !
+    + anéantir
+  
 ### tête
   - Mais ça va pas la tête ?
     + Mais tu es devenu fou ? / tu es déraisonnable / tu délires !
+  
+### trouble-fête
+  - Ils délirent ? Le chapeau de paille affronte Kaido. Et je suis censé aller jouer les trouble-fête ?
   
 ### veste
   - Il a retourné sa veste.
@@ -212,6 +219,9 @@
     + Raconter des mensonges/contradictions/inventions/mauvaises excuses/propos confus.
   
   - Tu récoltes ce que tu sèmes !
+  
+  - J'ai plus de jus pour lui tenir tête.
+    + ne plus avoir d'énergie
   
 ### Haki / Fluide
   - J'en ai aucune idée, mais en tout cas, un milliard de que ce soit, ça m'a l'air de faire une sacrée somme.

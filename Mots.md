@@ -11,6 +11,13 @@ A
 	
 	  ![Casey](./Figures/casey.jpg)
 
+### argent (sous toutes ses coutures)
+  - le blé, l'oseille, les patates, le pèze, les radis
+  - la brique, le flouze, le fric, les pépètes, la thune
+  - le grisbi
+  - le pognon
+  - le sou
+
 B
 ---
 ### balancer
