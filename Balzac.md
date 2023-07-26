@@ -1,0 +1,6 @@
+# Honoré de Balzac
+
+### _L'Inde et ses religions revivaient dans une idole coiffée de son chapeau pointu, à losanges relevées, parée de clochettes, vêtue d'or et de soie. Près du magot, une natte, jolie comme la bayadère qui s'y était roulée, exhalait encore les odeurs du sandal. Un monstre de la Chine dont les yeux restaient tordus, la bouche contournée, les membres torturés, réveillait l'âme par les inventions d'un peuple qui, fatigué du beau toujours unitaire, trouve d'ineffables plaisirs dans la fécondité des laideurs._
+  - _La Peau de chagrin_, P. 88, GF Flammarion, 2013.
+  - Le mot _losange_ est resté féminin jusqu'au XVIIe siècles.
+	

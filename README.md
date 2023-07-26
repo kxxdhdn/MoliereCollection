@@ -2,6 +2,7 @@
 
 
 + [Argots](https://github.com/kxxdhdn/MoliereCollection/blob/master/Argots.md)
++ [Balzac](https://github.com/kxxdhdn/MoliereCollection/blob/master/Balzac.md)
 + [Blagues](https://github.com/kxxdhdn/MoliereCollection/blob/master/Blagues.md)
 + [Expressions](https://github.com/kxxdhdn/MoliereCollection/blob/master/Expressions.md)
 + [Latin](https://github.com/kxxdhdn/MoliereCollection/blob/master/Latin.md)
