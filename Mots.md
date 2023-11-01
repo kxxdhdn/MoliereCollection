@@ -37,6 +37,9 @@ C
   - [à ne pas confondre] Toque : sorte de chapeau (toque en fourrure, toque de chef cuisinier, etc.)
     + Toqué : appliqué à certaines récompenses culinaires
   - Pulsion : envie soudaine et très forte, difficile à réfréner
+### craquer
+  - Ce n'est pas le moment de craquer.
+  - des photos à craquer :cn: 美不胜收的照片
 
 D
 ---

@@ -51,6 +51,13 @@ M
 ### Manu militari
   - par la main militaire
 
+N
+---
+### Nihil est in intellectu quod non sit prius in sensu.
+  - :fr: Rien n'est dans l'intellect qui n'ait d'abord été dans les sens.
+  - :gb: There is nothing in the mind that does not come from the senses.
+  - :cn: 没有任何智慧是可以不不经由感觉而获得的
+
 V
 ---
 ### Vice versa

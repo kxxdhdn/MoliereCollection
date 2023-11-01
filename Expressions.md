@@ -22,6 +22,8 @@ B
   - pas de chance
     + _C'est sympa de mettre l'ordinateur d'un informaticien par example dans un bol._ (Pour ne pas avoir des bugs. ) [C'est une blague.]
 
+### Encore une fois, je te fais faux bond. Mais cette fois, c'est pour la bonne cause.
+
 ### On bouge. / On décolle.
   - On y va.
 
@@ -81,6 +83,9 @@ N
 ---
 ### Tous les machins de France et de Navarre
 
+### Une réponse de Normand
+  - Un Normand a son dit et son dédit
+
 P
 ---
 ### Ça coûte la peau des fesses/un bras/une jambe.
@@ -92,6 +97,9 @@ P
 ### C’est du pipeau.
   - :gb: It is a lie.
   - Tu racontes des salades.
+  
+### Laisser pisser le mérinos / la bête
+  - :cn: 放任自流，等待时机
 
 ### Mettre qqn au placard
 
@@ -109,6 +117,10 @@ S
 
 T
 ---
+### Taper dans l’œil de quelqu’un
+  - se faire remarquer
+  - tape-à-l’œil :cn: 华而不实
+
 ### C'est un coup à double tranchant :cn: 双刃剑
 
 V
