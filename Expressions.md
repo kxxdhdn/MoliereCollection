@@ -76,6 +76,10 @@ M
 ### Une régularité de métronome
   - très régulier
 
+### C'était moins une !
+  - Ce fut très juste.
+  - Être déjà presque trop tard.
+  
 ### Remontre moi le moral
   - redonner de l'espoir, consoler
 
