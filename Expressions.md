@@ -88,7 +88,7 @@ N
 ### Tous les machins de France et de Navarre
 
 ### Une réponse de Normand
-  - Un Normand a son dit et son dédit
+  - Un Normand a son dit et son dédit.
 
 P
 ---
@@ -130,4 +130,8 @@ T
 V
 ---
 ### Passer en coup de vent
-  - Passer très vite, ne pas rester :cn:（取了东西）就走
+  - passer très vite, ne pas rester :cn:（取了东西）就走
+  
+### Vider son sac
+  - Dire tout ce qu'on a à dire, tout ce qu'on a sur le cœur.
+    + Racisme, Milan : Mike Maignan vide son sac après sa difficile soirée
