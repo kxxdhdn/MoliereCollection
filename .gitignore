@@ -1,2 +1,5 @@
 # Mac OSX
 .DS_Store
+
+# markdown-mode
+.markdown-preview.html
