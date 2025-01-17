@@ -5,6 +5,7 @@
 + [Balzac](https://github.com/kxxdhdn/MoliereCollection/blob/master/Balzac.md)
 + [Blagues](https://github.com/kxxdhdn/MoliereCollection/blob/master/Blagues.md)
 + [Expressions](https://github.com/kxxdhdn/MoliereCollection/blob/master/Expressions.md)
++ [Gastronomie](https://github.com/kxxdhdn/MoliereCollection/blob/master/Gastronomie.md)
 + [Latin](https://github.com/kxxdhdn/MoliereCollection/blob/master/Latin.md)
 + [Mots](https://github.com/kxxdhdn/MoliereCollection/blob/master/Mots.md)
 + [Œuvres](https://github.com/kxxdhdn/MoliereCollection/blob/master/OEuvres.md)

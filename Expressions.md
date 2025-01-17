@@ -3,7 +3,7 @@
 
 A
 ---
-### Atterrir/revenir sur terre
+### atterrir/revenir sur terre
   - Revenir à la réalité (pour quelqu'un de distrait/dans le nuage/dans la lune)
 
 B
@@ -13,7 +13,8 @@ B
   - Origine : Un bail / une paye correspond à une durée d'un mois et donc être utilisé,e pour exprimer le temps écoulé.
 
 ### C'est ballot.
-  - C'est bête. C'est dommage. C'est con. C'est simple.
+  - C'est bête/con/simple.
+  - C'est dommage.
   - Ballot de foin
 
     ![Ballot de foin](./Figures/ballot_foin.jpg)
@@ -24,14 +25,15 @@ B
 
 ### Encore une fois, je te fais faux bond. Mais cette fois, c'est pour la bonne cause.
 
-### On bouge. / On décolle.
+### On bouge.
   - On y va.
+  - On décolle.
 
 C
 ---
-### Démarrer sur les chapeaux de roues
+### démarrer sur les chapeaux de roues
 
-### Un rire/une voix de crécelle
+### un rire/une voix de crécelle
   - aigüe, criard, griçant, désagréable
     _Une couleur criarde_
 
@@ -44,9 +46,9 @@ D
 
 E
 ---
-### Monter ... en épingle = en faire tout un cirque/pataquès/fromage
-  - Agraver quelque chose/un problème qui n'en veut pas la peine
-  - Pataquès : liaison fautive
+### monter ... en épingle = en faire tout un cirque/pataquès/fromage
+  - agraver quelque chose/un problème qui n'en veut pas la peine
+  - pataquès : liaison fautive
 
 F
 ---
@@ -55,49 +57,55 @@ F
 
 ### Je m'en fou/fiche.
   - Je m'en tamponne-
-    + - l'oreille avec une babouche.
-    + - le coquillard en cadence.
+    + l'oreille avec une babouche.
+    + le coquillard en cadence.
   - Je m'en bats-
-    + - l'&oelig;il avec...
-    + - les couilles.
+    + l'&oelig;il avec...
+    + les couilles.
 
 G
 ---
-### Faire gaffe
+### faire gaffe
   - faire attention
+
+J
+---
+### Je jure de dire toute la vérité, rien que la vérité (en mon âme et conscience) sur les notes que je vais donner.
 
 L
 ---
 ### Pourvoir se cacher derrière un lampataire
   - être très maigre
 
+### se reposer / s'endormir sur ses lauriers :cn: 吃老本
+
 M
 ---
 ### Malinx le lynx
   - Malin via la pub de LeLynx Assurances
 
-### Une régularité de métronome
+### une régularité de métronome
   - très régulier
 
 ### C'était moins une !
   - Ce fut très juste.
   - Être déjà presque trop tard.
   
-### Remontre moi le moral
+### remontre moi le moral
   - redonner de l'espoir, consoler
 
 N
 ---
 ### Tous les machins de France et de Navarre
 
-### Une réponse de Normand
-  - Un Normand a son dit et son dédit.
+### une réponse de Normand
+  - un Normand a son dit et son dédit.
 
 P
 ---
 ### Ça coûte la peau des fesses/un bras/une jambe.
 
-### Habiter à perpète,-lès-Oies.
+### habiter à perpète,-lès-Oies.
   - Perpète : endroit lointain/isolé
   - -lès-Oies : nom utilisé souvent pour des régions rurales
 
@@ -105,10 +113,9 @@ P
   - :gb: It is a lie.
   - Tu racontes des salades.
   
-### Laisser pisser le mérinos / la bête
-  - :cn: 放任自流，等待时机
+### laisser pisser le mérinos / la bête :cn: 放任自流，等待时机
 
-### Mettre qqn au placard
+### mettre qqn au placard
 
 R
 ---
@@ -119,12 +126,12 @@ S
 ### C'est tout un sketch/film/cirque. = faire le clown
   - faire n'import quoi ; agir bizarrement
 
-### Sauter du coq à l'âne
+### sauter du coq à l'âne
   - Fait de passer brusquement d'un sujet à un autre dans une conversation
 
 T
 ---
-### Taper dans l’œil de quelqu’un
+### taper dans l’œil de quelqu’un
   - se faire remarquer
   - tape-à-l’œil :cn: 华而不实
 
@@ -132,9 +139,9 @@ T
 
 V
 ---
-### Passer en coup de vent
+### passer en coup de vent
   - passer très vite, ne pas rester :cn:（取了东西）就走
   
-### Vider son sac
+### vider son sac
   - Dire tout ce qu'on a à dire, tout ce qu'on a sur le cœur.
     + Racisme, Milan : Mike Maignan vide son sac après sa difficile soirée

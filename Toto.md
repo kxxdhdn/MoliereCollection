@@ -9,4 +9,4 @@ A
 C
 ---
 ### __Calendrier de l'avent__
-  - :uk: Advent calendar
+  - :gb: Advent calendar
