@@ -23,6 +23,11 @@ B
 ### balancer
   - Tu peux prévenir avant de balancer les trucs comme ça ?
 
+### beauf
+  - Beau-frère : étroit d'esprit, conformiste à l'extrême, vulgaire
+    + Inventée par le dessinateur Cabu (Jean Cabut de Charlie Hebdo, RIP) au début des années 1970
+    + Mon beau-frère est un vrai beauf.
+
 C
 ---
 ### calculs d'apothicaire	
@@ -82,6 +87,16 @@ K
   ![Licorne porcelaine luminaire](./Figures/veilleuse_licorne_porcelaine_enfant_luminaire.jpg)
   
   - Dans les œuvres d’art: juxtaposition, accumulation, enfance, société de consommation, cadres dorées, syncrétisme religieux, etc. [En savoir plus](https://mlleaartus.wordpress.com/2017/07/27/le-kitsch-cest-quoi/)
+
+
+N
+---
+### nase, naze
+  - cassé, hors d'usage, qui ne fonctionne plus ou qui fonctionne mal
+    + La télé est complètement nase.
+  - nul, stupide, idiot, un peu fou ou un peu ivre
+    + Ce film est naze.
+    + Ce mec est naze au foot.
 
 P
 ---
